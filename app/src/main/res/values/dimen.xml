@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- commonly used dimens -->
+    <dimen name="gap_1">1dp</dimen>
+    <dimen name="gap_8">8dp</dimen>
+    <dimen name="gap_16">16dp</dimen>
+
+</resources>

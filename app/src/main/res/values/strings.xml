@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Open Weather</string>
+    <string name="no_internet_connectivity">No internet connection.</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_required_message">In order to show the weather forecast in your area, we need your GPS location. Please provide the permission to access it</string>
+    <string name="exit">Exit</string>
+    <string name="reload">Reload</string>
+
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+</resources>
